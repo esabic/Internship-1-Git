@@ -4,4 +4,4 @@ Anđela ima z pobjeda i n poraza!
 
 0 . .
 . . .
-X . X
+0 . X
